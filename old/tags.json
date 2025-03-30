@@ -1,0 +1,18 @@
+[
+    "ligne_droite",
+    "intersection",
+    "obstacle",
+    "zone_dangereuse",
+    "stop",
+    "feu",
+    "passage_pieton",
+    "priorite",
+    "depassement",
+    "voiture_proche",
+    "pieton_proche",
+    "velo_proche",
+    "changement_voie",
+    "voiture_arret",
+    "demarage",
+    "prochaine_sortie"
+]

@@ -1,0 +1,1623 @@
+{
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00005.jpg": {
+        "trajectory": [
+            [
+                931,
+                734
+            ],
+            [
+                995,
+                552
+            ],
+            [
+                1006,
+                485
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 30,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 1
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00006.jpg": {
+        "trajectory": [
+            [
+                945,
+                734
+            ],
+            [
+                968,
+                645
+            ],
+            [
+                976,
+                593
+            ],
+            [
+                980,
+                534
+            ],
+            [
+                976,
+                478
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 32,
+            "Angle (\u00b0)": 1,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00007.jpg": {
+        "trajectory": [
+            [
+                946,
+                729
+            ],
+            [
+                969,
+                592
+            ],
+            [
+                975,
+                532
+            ],
+            [
+                975,
+                503
+            ],
+            [
+                978,
+                476
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 32,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00008.jpg": {
+        "trajectory": [
+            [
+                954,
+                732
+            ],
+            [
+                979,
+                578
+            ],
+            [
+                989,
+                526
+            ],
+            [
+                994,
+                490
+            ],
+            [
+                993,
+                476
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 32,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00009.jpg": {
+        "trajectory": [
+            [
+                896,
+                737
+            ],
+            [
+                926,
+                664
+            ],
+            [
+                958,
+                572
+            ],
+            [
+                961,
+                525
+            ],
+            [
+                969,
+                484
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 30,
+            "Angle (\u00b0)": 2,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "ligne_droite",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00010.jpg": {
+        "trajectory": [
+            [
+                911,
+                727
+            ],
+            [
+                943,
+                669
+            ],
+            [
+                999,
+                612
+            ],
+            [
+                1012,
+                566
+            ],
+            [
+                1012,
+                532
+            ],
+            [
+                1005,
+                504
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 30,
+            "Angle (\u00b0)": 10,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "zone_dangereuse",
+            "changement_voie"
+        ],
+        "tag_ids": [
+            3,
+            12
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00011.jpg": {
+        "trajectory": [
+            [
+                977,
+                704
+            ],
+            [
+                977,
+                582
+            ],
+            [
+                966,
+                499
+            ],
+            [
+                964,
+                461
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 1
+        },
+        "tags": [
+            "ligne_droite",
+            "voiture_proche"
+        ],
+        "tag_ids": [
+            0,
+            9
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00012.jpg": {
+        "trajectory": [
+            [
+                940,
+                704
+            ],
+            [
+                970,
+                586
+            ],
+            [
+                980,
+                539
+            ],
+            [
+                974,
+                501
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 15,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -10
+        },
+        "tags": [
+            "ligne_droite",
+            "feu"
+        ],
+        "tag_ids": [
+            0,
+            5
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00013.jpg": {
+        "trajectory": [
+            [
+                1036,
+                699
+            ],
+            [
+                1036,
+                679
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 2,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "zone_dangereuse",
+            "feu",
+            "voiture_proche",
+            "pieton_proche"
+        ],
+        "tag_ids": [
+            3,
+            5,
+            9,
+            10
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00014.jpg": {
+        "trajectory": [
+            [
+                1032,
+                700
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "zone_dangereuse",
+            "voiture_proche",
+            "pieton_proche",
+            "voiture_arret"
+        ],
+        "tag_ids": [
+            3,
+            9,
+            10,
+            13
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00015.jpg": {
+        "trajectory": [],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "zone_dangereuse",
+            "voiture_proche",
+            "pieton_proche",
+            "voiture_arret"
+        ],
+        "tag_ids": [
+            3,
+            9,
+            10,
+            13
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00016.jpg": {
+        "trajectory": [],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "zone_dangereuse",
+            "voiture_proche",
+            "pieton_proche",
+            "voiture_arret"
+        ],
+        "tag_ids": [
+            3,
+            9,
+            10,
+            13
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00017.jpg": {
+        "trajectory": [
+            [
+                1036,
+                703
+            ],
+            [
+                1033,
+                658
+            ],
+            [
+                1027,
+                611
+            ],
+            [
+                1022,
+                524
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 5
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse",
+            "voiture_proche",
+            "demarage"
+        ],
+        "tag_ids": [
+            0,
+            3,
+            9,
+            14
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00018.jpg": {
+        "trajectory": [
+            [
+                1035,
+                702
+            ],
+            [
+                1032,
+                654
+            ],
+            [
+                1027,
+                616
+            ],
+            [
+                1022,
+                561
+            ],
+            [
+                1011,
+                516
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 1,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 10
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse",
+            "voiture_proche",
+            "demarage"
+        ],
+        "tag_ids": [
+            0,
+            3,
+            9,
+            14
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00019.jpg": {
+        "trajectory": [
+            [
+                1007,
+                699
+            ],
+            [
+                1007,
+                565
+            ],
+            [
+                1003,
+                498
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 20,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 5
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            3,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00020.jpg": {
+        "trajectory": [
+            [
+                1011,
+                709
+            ],
+            [
+                1013,
+                558
+            ],
+            [
+                1005,
+                493
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite",
+            "feu"
+        ],
+        "tag_ids": [
+            0,
+            5
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00021.jpg": {
+        "trajectory": [
+            [
+                969,
+                703
+            ],
+            [
+                961,
+                594
+            ],
+            [
+                985,
+                525
+            ],
+            [
+                1022,
+                484
+            ],
+            [
+                1063,
+                467
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 23,
+            "Angle (\u00b0)": 2,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -1
+        },
+        "tags": [
+            "intersection",
+            "zone_dangereuse",
+            "feu",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            1,
+            3,
+            5,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00022.jpg": {
+        "trajectory": [
+            [
+                1018,
+                694
+            ],
+            [
+                1054,
+                569
+            ],
+            [
+                1098,
+                521
+            ],
+            [
+                1140,
+                483
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 23,
+            "Angle (\u00b0)": 5,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 2
+        },
+        "tags": [
+            "intersection",
+            "zone_dangereuse",
+            "voiture_proche"
+        ],
+        "tag_ids": [
+            1,
+            3,
+            9
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00023.jpg": {
+        "trajectory": [
+            [
+                891,
+                707
+            ],
+            [
+                941,
+                603
+            ],
+            [
+                981,
+                556
+            ],
+            [
+                1010,
+                512
+            ],
+            [
+                1011,
+                497
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 5,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "zone_dangereuse"
+        ],
+        "tag_ids": [
+            3
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00024.jpg": {
+        "trajectory": [
+            [
+                820,
+                703
+            ],
+            [
+                776,
+                615
+            ],
+            [
+                723,
+                540
+            ],
+            [
+                669,
+                508
+            ],
+            [
+                612,
+                495
+            ],
+            [
+                550,
+                484
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 28,
+            "Angle (\u00b0)": -8,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 2
+        },
+        "tags": [
+            "zone_dangereuse",
+            "priorite"
+        ],
+        "tag_ids": [
+            3,
+            7
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00025.jpg": {
+        "trajectory": [
+            [
+                795,
+                679
+            ],
+            [
+                739,
+                599
+            ],
+            [
+                743,
+                557
+            ],
+            [
+                800,
+                512
+            ],
+            [
+                891,
+                486
+            ],
+            [
+                973,
+                460
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 28,
+            "Angle (\u00b0)": -5,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "prochaine_sortie"
+        ],
+        "tag_ids": [
+            15
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00026.jpg": {
+        "trajectory": [
+            [
+                910,
+                673
+            ],
+            [
+                1003,
+                587
+            ],
+            [
+                1060,
+                533
+            ],
+            [
+                1169,
+                495
+            ],
+            [
+                1240,
+                465
+            ],
+            [
+                1299,
+                455
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 5,
+            "Angle (\u00b0)": 30,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -10
+        },
+        "tags": [
+            "zone_dangereuse",
+            "priorite",
+            "prochaine_sortie"
+        ],
+        "tag_ids": [
+            3,
+            7,
+            15
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00027.jpg": {
+        "trajectory": [
+            [
+                949,
+                668
+            ],
+            [
+                1001,
+                590
+            ],
+            [
+                1058,
+                552
+            ],
+            [
+                1125,
+                534
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 2,
+            "Angle (\u00b0)": 35,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -1
+        },
+        "tags": [
+            "obstacle",
+            "voiture_proche",
+            "prochaine_sortie"
+        ],
+        "tag_ids": [
+            2,
+            9,
+            15
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00028.jpg": {
+        "trajectory": [
+            [
+                890,
+                680
+            ],
+            [
+                1014,
+                589
+            ],
+            [
+                1142,
+                516
+            ],
+            [
+                1202,
+                491
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 20,
+            "Angle (\u00b0)": 45,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 2
+        },
+        "tags": [
+            "zone_dangereuse"
+        ],
+        "tag_ids": [
+            3
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00029.jpg": {
+        "trajectory": [
+            [
+                961,
+                674
+            ],
+            [
+                976,
+                532
+            ],
+            [
+                980,
+                479
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 23,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 1
+        },
+        "tags": [
+            "ligne_droite",
+            "passage_pieton",
+            "pieton_proche"
+        ],
+        "tag_ids": [
+            0,
+            6,
+            10
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00030.jpg": {
+        "trajectory": [
+            [
+                991,
+                664
+            ],
+            [
+                1021,
+                534
+            ],
+            [
+                1010,
+                454
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 2,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "intersection",
+            "feu"
+        ],
+        "tag_ids": [
+            1,
+            5
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00031.jpg": {
+        "trajectory": [
+            [
+                959,
+                672
+            ],
+            [
+                976,
+                544
+            ],
+            [
+                977,
+                484
+            ],
+            [
+                969,
+                453
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00032.jpg": {
+        "trajectory": [
+            [
+                965,
+                676
+            ],
+            [
+                980,
+                547
+            ],
+            [
+                982,
+                475
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse"
+        ],
+        "tag_ids": [
+            0,
+            3
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00033.jpg": {
+        "trajectory": [
+            [
+                1014,
+                674
+            ],
+            [
+                1004,
+                575
+            ],
+            [
+                1001,
+                521
+            ],
+            [
+                997,
+                490
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse"
+        ],
+        "tag_ids": [
+            0,
+            3
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00034.jpg": {
+        "trajectory": [
+            [
+                1006,
+                678
+            ],
+            [
+                1008,
+                584
+            ],
+            [
+                1007,
+                530
+            ],
+            [
+                1002,
+                489
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00035.jpg": {
+        "trajectory": [
+            [
+                974,
+                678
+            ],
+            [
+                988,
+                547
+            ],
+            [
+                977,
+                494
+            ],
+            [
+                979,
+                477
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00036.jpg": {
+        "trajectory": [
+            [
+                941,
+                680
+            ],
+            [
+                957,
+                548
+            ],
+            [
+                964,
+                491
+            ],
+            [
+                964,
+                468
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -2
+        },
+        "tags": [
+            "ligne_droite",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00037.jpg": {
+        "trajectory": [
+            [
+                948,
+                675
+            ],
+            [
+                971,
+                535
+            ],
+            [
+                983,
+                445
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 2
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00038.jpg": {
+        "trajectory": [
+            [
+                966,
+                673
+            ],
+            [
+                976,
+                590
+            ],
+            [
+                972,
+                533
+            ],
+            [
+                952,
+                489
+            ],
+            [
+                954,
+                468
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 28,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -4
+        },
+        "tags": [
+            "ligne_droite",
+            "zone_dangereuse",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            3,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00039.jpg": {
+        "trajectory": [
+            [
+                1001,
+                680
+            ],
+            [
+                1003,
+                539
+            ],
+            [
+                1013,
+                472
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -1
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00040.jpg": {
+        "trajectory": [
+            [
+                1009,
+                677
+            ],
+            [
+                1012,
+                578
+            ],
+            [
+                1031,
+                503
+            ],
+            [
+                1025,
+                468
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 23,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "ligne_droite",
+            "intersection",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            1,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00041.jpg": {
+        "trajectory": [
+            [
+                947,
+                676
+            ],
+            [
+                963,
+                557
+            ],
+            [
+                979,
+                495
+            ],
+            [
+                990,
+                468
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00042.jpg": {
+        "trajectory": [
+            [
+                1017,
+                678
+            ],
+            [
+                998,
+                540
+            ],
+            [
+                989,
+                453
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00043.jpg": {
+        "trajectory": [
+            [
+                1013,
+                679
+            ],
+            [
+                1024,
+                585
+            ],
+            [
+                1024,
+                501
+            ],
+            [
+                1018,
+                457
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00044.jpg": {
+        "trajectory": [
+            [
+                1008,
+                696
+            ],
+            [
+                1006,
+                626
+            ],
+            [
+                1004,
+                563
+            ],
+            [
+                999,
+                506
+            ],
+            [
+                1005,
+                460
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00045.jpg": {
+        "trajectory": [
+            [
+                975,
+                674
+            ],
+            [
+                983,
+                613
+            ],
+            [
+                999,
+                541
+            ],
+            [
+                1021,
+                497
+            ],
+            [
+                1067,
+                462
+            ],
+            [
+                1101,
+                454
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 25,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -2
+        },
+        "tags": [
+            "ligne_droite",
+            "intersection",
+            "zone_dangereuse",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            1,
+            3,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00046.jpg": {
+        "trajectory": [
+            [
+                939,
+                674
+            ],
+            [
+                977,
+                564
+            ],
+            [
+                1002,
+                512
+            ],
+            [
+                1030,
+                472
+            ],
+            [
+                1054,
+                451
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 22,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite",
+            "intersection",
+            "zone_dangereuse",
+            "voiture_proche"
+        ],
+        "tag_ids": [
+            0,
+            1,
+            3,
+            9
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00047.jpg": {
+        "trajectory": [
+            [
+                975,
+                671
+            ],
+            [
+                994,
+                569
+            ],
+            [
+                1000,
+                508
+            ],
+            [
+                1001,
+                472
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 22,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -8
+        },
+        "tags": [
+            "ligne_droite",
+            "feu",
+            "voiture_proche",
+            "pieton_proche"
+        ],
+        "tag_ids": [
+            0,
+            5,
+            9,
+            10
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00048.jpg": {
+        "trajectory": [
+            [
+                1016,
+                676
+            ],
+            [
+                1017,
+                597
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 5,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": -5
+        },
+        "tags": [
+            "ligne_droite",
+            "intersection",
+            "feu",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            1,
+            5,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00049.jpg": {
+        "trajectory": [],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "feu",
+            "voiture_arret"
+        ],
+        "tag_ids": [
+            5,
+            13
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00050.jpg": {
+        "trajectory": [],
+        "data": {
+            "Vitesse (km/h)": 0,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "feu",
+            "voiture_arret"
+        ],
+        "tag_ids": [
+            5,
+            13
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00051.jpg": {
+        "trajectory": [
+            [
+                952,
+                671
+            ],
+            [
+                952,
+                609
+            ],
+            [
+                927,
+                568
+            ],
+            [
+                918,
+                535
+            ],
+            [
+                935,
+                490
+            ],
+            [
+                964,
+                470
+            ],
+            [
+                993,
+                461
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 10,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 5
+        },
+        "tags": [
+            "ligne_droite",
+            "intersection",
+            "zone_dangereuse"
+        ],
+        "tag_ids": [
+            0,
+            1,
+            3
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00052.jpg": {
+        "trajectory": [
+            [
+                1024,
+                675
+            ],
+            [
+                1055,
+                619
+            ],
+            [
+                1089,
+                572
+            ],
+            [
+                1131,
+                537
+            ],
+            [
+                1181,
+                491
+            ],
+            [
+                1233,
+                453
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 20,
+            "Angle (\u00b0)": 20,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 2
+        },
+        "tags": [
+            "ligne_droite",
+            "passage_pieton"
+        ],
+        "tag_ids": [
+            0,
+            6
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00053.jpg": {
+        "trajectory": [
+            [
+                968,
+                677
+            ],
+            [
+                973,
+                519
+            ],
+            [
+                982,
+                461
+            ],
+            [
+                974,
+                417
+            ]
+        ],
+        "data": {
+            "Vitesse (km/h)": 30,
+            "Angle (\u00b0)": 0,
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": 0
+        },
+        "tags": [
+            "ligne_droite"
+        ],
+        "tag_ids": [
+            0
+        ]
+    },
+    "Driving Downtown - Paris 4K HDR - Morning Rain_00054.jpg": {
+        "trajectory": [],
+        "data": {
+            "Vitesse (km/h)": "",
+            "Angle (\u00b0)": "",
+            "Acc\u00e9l\u00e9ration (m/s\u00b2)": ""
+        },
+        "tags": [],
+        "tag_ids": []
+    }
+}
